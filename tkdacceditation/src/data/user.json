@@ -1,0 +1,41 @@
+{
+    "user": {
+      "UserName": "Ismail",
+      "PassWord": "55555"
+    },
+    "event": "championat",
+    "date": "",
+    "lieu": "",
+    "places": [
+      {
+        "id":1,
+        "rang": 1,
+        "name": "Salle d'échauffement",
+        "color":"#6268b1"
+      },
+      {
+        "id":2,
+        "rang": 1,
+        "name": "Salle de la pesée",
+        "color":"#9ac9de"
+      },
+      {
+        "id":3,
+        "rang": 1,
+        "name": "Air de combat",
+        "color":"#4056fa"
+      },
+      {
+        "id":4,
+        "rang": 3,
+        "name": "Salle d'Arbitrage",
+        "color":"#cb9042"
+      },
+      {
+        "id":5,
+        "rang": 4,
+        "name": "Champs officiel VIP",
+        "color":"#e1415f"
+      }
+    ]
+  }

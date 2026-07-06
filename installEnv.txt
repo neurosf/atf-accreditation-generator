@@ -1,0 +1,12 @@
+@echo off
+rem Create a virtual environment
+python -m venv env_name
+
+rem Activate the virtual environment
+call env_name\Scripts\activate
+
+rem Install project dependencies
+pip install -r requirements.txt
+
+rem Pause to keep the command prompt window open
+pause

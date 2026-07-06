@@ -1,0 +1,2 @@
+cd tkdacceditation
+npm start
